@@ -3,8 +3,12 @@ a dataset (5 class.csv)
 
 The Classes are :-
 
-Class 0 : Brown Dwarf\n
-Class 1:  Red Dwarf\n
-Class 2:  White Dwarf\n
-Class 3:  Supergiant\n
-Class 4:  Hypergiant\n
+Class 0 : Brown Dwarf
+
+Class 1:  Red Dwarf
+
+Class 2:  White Dwarf
+
+Class 3:  Supergiant
+
+Class 4:  Hypergiant
