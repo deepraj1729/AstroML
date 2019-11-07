@@ -1,5 +1,4 @@
 This is a Star Classifier Model (Iris Version) which uses a ML algorithm (Deep Neural Network) to classify stars based on several
-
 features such as :
 
 1. Surface Temperature (in K)
