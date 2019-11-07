@@ -14,9 +14,15 @@ The Star Type is what we need to predict after training a part of the dataset fr
 The star Type includes :
 
 Star Type     Corresponding Class
+
   0        ->   Brown Dwarf
+  
   1        ->   Red Dwarf
+  
   2        ->   White Dwarf
+  
   3        ->   Main Sequence
+  
   4        ->   Supergiant
+  
   5        ->   Hyperginat 
