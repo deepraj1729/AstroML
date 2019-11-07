@@ -13,7 +13,7 @@ The Star Type is what we need to predict after training a part of the dataset fr
 
 The star Type includes :
 
-Star Type     Corresponding Class
+Star Type   |   Corresponding Class
 
   0        ->   Brown Dwarf
   
